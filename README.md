@@ -16,4 +16,5 @@ Once you have the webhook defined you neet visit webworker's homepage. Visiting 
 web worker for you.
 
 Web worker will listen to web push notifications. If you allowed notifications you will receive them. If you did
-not allow, notifications will not be shown.
+not allow, notifications will not be shown. If you want to override your settings search for "Notification" in
+settings and remove webtaks' url.
