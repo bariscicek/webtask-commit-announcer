@@ -6,3 +6,5 @@ This is a repository to hold webtask commit announcer task. Normaly you do not n
 Webtask commit announcer is a webtask application which allows Github users to get a web push notification.
 
 Webtask commit announcer is using Firebase Cloud Messaging platform of Google.
+
+For that reason you need to have FCM api keys and put them into Webtask.io "secrets".
