@@ -15,4 +15,5 @@ you need to track.
 Once you have the webhook defined you neet visit webworker's homepage. Visiting the homepage will register
 web worker for you.
 
-Web worker will listen to web push notifications. If you allowed notifications you will receive them.
+Web worker will listen to web push notifications. If you allowed notifications you will receive them. If you did
+not allow, notifications will not be shown.
