@@ -21,4 +21,5 @@ settings and remove webtaks' url. Once you revisit, chrome will ask you for auth
 
 This worker would work on most modern browsers. But it is only test in Chrome. It should work well on Firefox, though.
 
-Once notification is enabled, webworker will work on the background.
+Once notification is enabled, webworker will work on the background. Background web workers can be seen from Dev Tools of
+Chrome.
