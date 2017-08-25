@@ -19,4 +19,4 @@ Web worker will listen to web push notifications. If you allowed notifications y
 not allow, notifications will not be shown. If you want to override your settings search for "Notification" in
 settings and remove webtaks' url. Once you revisit, chrome will ask you for authorization again.
 
-This worker would work on most modern browsers.
+This worker would work on most modern browsers. But it is only test in Chrome.
