@@ -20,3 +20,5 @@ not allow, notifications will not be shown. If you want to override your setting
 settings and remove webtaks' url. Once you revisit, chrome will ask you for authorization again.
 
 This worker would work on most modern browsers. But it is only test in Chrome. It should work well on Firefox, though.
+
+Once notification is enabled, webworker will work on the background.
