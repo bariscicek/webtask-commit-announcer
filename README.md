@@ -12,4 +12,5 @@ For that reason you need to have FCM api keys and put them into Webtask.io "secr
 Once you setup webtask, you need to get copy of the url, and add this to webhook of the repository
 you need to track.
 
-Once you have the webhook defined you neet visit webworker's homepage.
+Once you have the webhook defined you neet visit webworker's homepage. Visiting the homepage will register
+web worker for you.
