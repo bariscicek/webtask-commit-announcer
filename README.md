@@ -26,3 +26,5 @@ Chrome. Applications -> Web workers list the background webworkers. You can sync
 update.
 
 In order to run the webtask just copy webtask.js to your new webtask.io.
+
+Webtask Commit Announcer uses webtask so you do not need to care about server setup etc.
